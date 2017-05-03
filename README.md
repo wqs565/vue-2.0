@@ -1,10 +1,12 @@
-# vue_project
+＃vue_pro ject 
 
-> A Vue.js project
+> Vue.js项目
 
 ## Build Setup
 
 ``` bash
+＃项目描述：vue 2.0从环境搭建到发布 -  微信：wqsongsong
+
 # install dependencies
 npm install
 
